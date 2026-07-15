@@ -14,17 +14,17 @@
 		{
 			"binding": "DB",
 			"database_name": "webdav-db",
-			"database_id": "e94e5636-4a8e-41d9-925c-eb8925e3fe41",
+			"database_id": "d30d3ad9-78f7-4830-b286-209f19d207c5",
 		},
 	],
 	"secrets_store_secrets": [
 		{
-			"store_id": "1f9c517029c347819072fcb45994c5ae",
+			"store_id": "7549f9641657482696c9ecaede4939bf",
 			"binding": "AUTH_USER",
 			"secret_name": "WEBDAV_AUTH_USER",
 		},
 		{
-			"store_id": "1f9c517029c347819072fcb45994c5ae",
+			"store_id": "7549f9641657482696c9ecaede4939bf",
 			"binding": "AUTH_PASS",
 			"secret_name": "WEBDAV_AUTH_PASS",
 		},
